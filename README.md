@@ -3,7 +3,7 @@ Battleship game using Python and numpy library.
 For two players, the user and the computer.
 You can choose three levels of difficulty for the computer. 
 
-The code doc is in English, the game right now is in Spanish
+The code doc is in English, the game right now is in Spanish.
 
 Hope you enjoy it!
 
