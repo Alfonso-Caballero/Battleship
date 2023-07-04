@@ -145,8 +145,6 @@ class PrincipalBoard:
                 for coordinate in coordinate_list:
                     if coordinate == x_y_coordinates:
                         coordinate_list.remove(coordinate)
-            print(self.list_boats_coordinates)
-            print(self.list_boats_coordinates_copy)
             print("\t\t\t ---------> TOCADO <---------")
             print("\t\t\t  --------> {} <-------".format((x_point + 1, y_point + 1)))
             index = 0
