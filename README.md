@@ -1,5 +1,5 @@
 # Battleship
-Battleship game using Python and numpy library.
+Battleship game using Python and numpy library, there is no interface, just using "print" built in function as interface.
 For two players, the user and the computer.
 You can choose three levels of difficulty for the computer. 
 
